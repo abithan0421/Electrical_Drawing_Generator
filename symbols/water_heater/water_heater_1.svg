@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <!-- Circle boundary -->
+  <circle cx="60" cy="60" r="40" stroke="black" stroke-width="2" fill="none" />
+  <!-- Label -->
+  <text x="60" y="65" font-size="18" text-anchor="middle" fill="black">WH</text>
+</svg>

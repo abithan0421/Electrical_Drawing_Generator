@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120">
+  <!-- Circle boundary -->
+  <circle cx="80" cy="60" r="40" stroke="black" stroke-width="2" fill="none" />
+  <!-- Label -->
+  <text x="80" y="65" font-size="18" text-anchor="middle" fill="black">AC</text>
+  <!-- Incoming line -->
+  <line x1="80" y1="10" x2="80" y2="20" stroke="black" stroke-width="2" />
+  <!-- Outgoing line -->
+  <line x1="80" y1="100" x2="80" y2="90" stroke="black" stroke-width="2" />
+</svg>
