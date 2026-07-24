@@ -1,0 +1,211 @@
+{
+  "Bedroom": {
+    "ceiling_light": {
+      "min": 1,
+      "max": 1,
+      "placement": "center",
+      "material_code": "LIGHT_CEILING",
+      "unit": "EA"
+    },
+    "ceiling_fan": {
+      "min": 1,
+      "max": 1,
+      "placement": "center",
+      "material_code": "FAN_CEILING",
+      "unit": "EA"
+    },
+    "socket": {
+      "min": 2,
+      "max": 3,
+      "placement": "wall",
+      "material_code": "SOCKET_6A_16A",
+      "unit": "EA"
+    },
+    "single_switch": {
+      "min": 1,
+      "max": 1,
+      "placement": "door",
+      "material_code": "SWITCH_SINGLE",
+      "unit": "EA"
+    },
+    "ac_point": {
+      "min": 1,
+      "max": 1,
+      "placement": "wall",
+      "material_code": "AC_POINT",
+      "unit": "EA"
+    }
+  },
+
+  "Living Room": {
+    "ceiling_light": {
+      "min": 2,
+      "max": 3,
+      "placement": "center",
+      "material_code": "LIGHT_CEILING",
+      "unit": "EA"
+    },
+    "ceiling_fan": {
+      "min": 1,
+      "max": 2,
+      "placement": "center",
+      "material_code": "FAN_CEILING",
+      "unit": "EA"
+    },
+    "socket": {
+      "min": 4,
+      "max": 6,
+      "placement": "wall",
+      "material_code": "SOCKET_6A_16A",
+      "unit": "EA"
+    },
+    "double_switch": {
+      "min": 2,
+      "max": 2,
+      "placement": "door",
+      "material_code": "SWITCH_DOUBLE",
+      "unit": "EA"
+    },
+    "tv_point": {
+      "min": 1,
+      "max": 1,
+      "placement": "tv_wall",
+      "material_code": "TV_POINT",
+      "unit": "EA"
+    }
+  },
+
+  "Kitchen": {
+    "ceiling_light": {
+      "min": 1,
+      "max": 2,
+      "placement": "center",
+      "material_code": "LIGHT_CEILING",
+      "unit": "EA"
+    },
+    "socket": {
+      "min": 4,
+      "max": 6,
+      "placement": "counter",
+      "material_code": "SOCKET_16A",
+      "unit": "EA"
+    },
+    "single_switch": {
+      "min": 1,
+      "max": 1,
+      "placement": "door",
+      "material_code": "SWITCH_SINGLE",
+      "unit": "EA"
+    },
+    "cooker_outlet": {
+      "min": 1,
+      "max": 1,
+      "placement": "stove",
+      "material_code": "COOKER_OUTLET",
+      "unit": "EA"
+    },
+    "exhaust_fan": {
+      "min": 1,
+      "max": 1,
+      "placement": "window",
+      "material_code": "EXHAUST_FAN",
+      "unit": "EA"
+    }
+  },
+
+  "Bathroom": {
+    "ceiling_light": {
+      "min": 1,
+      "max": 1,
+      "placement": "center",
+      "material_code": "LIGHT_CEILING",
+      "unit": "EA"
+    },
+    "single_switch": {
+      "min": 1,
+      "max": 1,
+      "placement": "door",
+      "material_code": "SWITCH_SINGLE",
+      "unit": "EA"
+    },
+    "exhaust_fan": {
+      "min": 1,
+      "max": 1,
+      "placement": "window",
+      "material_code": "EXHAUST_FAN",
+      "unit": "EA"
+    },
+    "water_heater": {
+      "min": 1,
+      "max": 1,
+      "placement": "wall",
+      "material_code": "WATER_HEATER_POINT",
+      "unit": "EA"
+    }
+  },
+
+  "Dining Room": {
+    "ceiling_light": {
+      "min": 1,
+      "max": 2,
+      "placement": "table_center",
+      "material_code": "LIGHT_CEILING",
+      "unit": "EA"
+    },
+    "socket": {
+      "min": 2,
+      "max": 3,
+      "placement": "wall",
+      "material_code": "SOCKET_6A_16A",
+      "unit": "EA"
+    },
+    "single_switch": {
+      "min": 1,
+      "max": 1,
+      "placement": "door",
+      "material_code": "SWITCH_SINGLE",
+      "unit": "EA"
+    }
+  },
+
+  "Balcony": {
+    "ceiling_light": {
+      "min": 1,
+      "max": 1,
+      "placement": "center",
+      "material_code": "LIGHT_OUTDOOR",
+      "unit": "EA"
+    },
+    "weatherproof_socket": {
+      "min": 1,
+      "max": 1,
+      "placement": "wall",
+      "material_code": "WEATHERPROOF_SOCKET",
+      "unit": "EA"
+    }
+  },
+
+  "Entrance": {
+    "ceiling_light": {
+      "min": 1,
+      "max": 1,
+      "placement": "center",
+      "material_code": "LIGHT_CEILING",
+      "unit": "EA"
+    },
+    "door_bell": {
+      "min": 1,
+      "max": 1,
+      "placement": "door",
+      "material_code": "DOORBELL",
+      "unit": "EA"
+    },
+    "distribution_board": {
+      "min": 1,
+      "max": 1,
+      "placement": "wall",
+      "material_code": "DB_8WAY",
+      "unit": "EA"
+    }
+  }
+}
